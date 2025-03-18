@@ -1,0 +1,110 @@
+[
+  {
+    "name": "test_files.py",
+    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/test_files.py",
+    "size": 3326,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.cpython-312.opt-1.pyc",
+    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.opt-1.pyc",
+    "size": 6444,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.cpython-312.pyc",
+    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.pyc",
+    "size": 6870,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.wxs",
+    "path": "/Library/Frameworks/Python.framework/Versions/3.12/share/doc/python3.12/examples/Tools/msi/test/test_files.wxs",
+    "size": 1459,
+    "created": "2024-12-11 17:17:30"
+  },
+  {
+    "name": "find_latest_files-c.ri",
+    "path": "/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/share/ri/2.6.0/system/Gem/find_latest_files-c.ri",
+    "size": 853,
+    "created": "2025-02-04 19:57:51"
+  },
+  {
+    "name": "find_latest_files-c.ri",
+    "path": "/System/Volumes/Update/mnt1/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/share/ri/2.6.0/system/Gem/find_latest_files-c.ri",
+    "size": 853,
+    "created": "2025-02-04 19:57:51"
+  },
+  {
+    "name": "test_files.py",
+    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/test_files.py",
+    "size": 3326,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.cpython-312.opt-1.pyc",
+    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.opt-1.pyc",
+    "size": 6444,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.cpython-312.pyc",
+    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.pyc",
+    "size": 6870,
+    "created": "2024-12-11 17:17:29"
+  },
+  {
+    "name": "test_files.wxs",
+    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/share/doc/python3.12/examples/Tools/msi/test/test_files.wxs",
+    "size": 1459,
+    "created": "2024-12-11 17:17:30"
+  },
+  {
+    "name": "test_files.py",
+    "path": "/System/Volumes/Data/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/test_files.py",
+    "size": 3472,
+    "created": "2025-02-27 13:43:57"
+  },
+  {
+    "name": "test_files.cpython-312.pyc",
+    "path": "/System/Volumes/Data/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__/test_files.cpython-312.pyc",
+    "size": 7409,
+    "created": "2025-02-27 13:45:27"
+  },
+  {
+    "name": "test_files.py",
+    "path": "/System/Volumes/Data/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/test/test_importlib/resources/test_files.py",
+    "size": 3641,
+    "created": "2024-12-11 17:06:31"
+  },
+  {
+    "name": "test_files.wxs",
+    "path": "/System/Volumes/Data/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/share/doc/python3.13/examples/Tools/msi/test/test_files.wxs",
+    "size": 1420,
+    "created": "2024-12-11 17:06:31"
+  },
+  {
+    "name": "test_files.py",
+    "path": "/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/test_files.py",
+    "size": 3472,
+    "created": "2025-02-27 13:43:57"
+  },
+  {
+    "name": "test_files.cpython-312.pyc",
+    "path": "/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__/test_files.cpython-312.pyc",
+    "size": 7409,
+    "created": "2025-02-27 13:45:27"
+  },
+  {
+    "name": "test_files.py",
+    "path": "/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/test/test_importlib/resources/test_files.py",
+    "size": 3641,
+    "created": "2024-12-11 17:06:31"
+  },
+  {
+    "name": "test_files.wxs",
+    "path": "/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/share/doc/python3.13/examples/Tools/msi/test/test_files.wxs",
+    "size": 1420,
+    "created": "2024-12-11 17:06:31"
+  }
+]

@@ -1,0 +1,12 @@
+{
+    "mcpServers": {
+      "file-finder-mcp": {
+        "args": [
+          "/Users/user/Documents/myproject/mcp_file_finder.py"
+        ],
+        "command": "python3",
+        "autoApprove": [],
+        "disabled": false
+      }
+    }
+  }

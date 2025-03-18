@@ -1,0 +1,15 @@
+cline_config = {
+    "mcpServers": {
+        "file-finder-mcp": {
+            "args": [
+                "python",
+                "mcp_server.py",
+                "--port",
+                "8080"
+            ],
+            "command": "python",
+            "autoApprove": [],
+            "disabled": False
+        }
+    }
+}
