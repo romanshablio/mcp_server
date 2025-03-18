@@ -2,7 +2,7 @@
     "mcpServers": {
       "file-finder-mcp": {
         "args": [
-          "/Users/user/Documents/myproject/mcp_file_finder.py"
+          "/Users/user/Documents/myproject/mcp_server.py"
         ],
         "command": "python3",
         "autoApprove": [],

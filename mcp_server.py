@@ -7,7 +7,8 @@ class MCPRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.path.startswith("/search?query="):
             query = self.path.split("query=")[-1]
-            response = find_files("/", query)
+            # Изменено: начинаем поиск с текущего рабочего каталога, а не с корневого
+            response = find_files(os.getcwd(), query)
 
             # Записываем JSON-ответ в файл
             with open("search_results.json", "w", encoding="utf-8") as json_file:
@@ -23,7 +24,7 @@ class MCPRequestHandler(BaseHTTPRequestHandler):
 
 def find_files(root_dir, query):
     matches = []
-    for root, _, files in os.walk(root_dir):
+    for root, dirs, files in os.walk(root_dir):
         for file in files:
             if query in file:
                 file_path = os.path.join(root, file)

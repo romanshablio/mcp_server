@@ -1,4 +1,4 @@
-cline_config = {
+{
     "mcpServers": {
         "file-finder-mcp": {
             "args": [
@@ -9,7 +9,7 @@ cline_config = {
             ],
             "command": "python",
             "autoApprove": [],
-            "disabled": False
+            "disabled": false
         }
     }
 }

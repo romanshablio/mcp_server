@@ -1,110 +1,440 @@
 [
   {
-    "name": "test_files.py",
-    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/test_files.py",
-    "size": 3326,
-    "created": "2024-12-11 17:17:29"
+    "name": "test.py",
+    "path": "/Users/user/Documents/myproject/.venv/test.py",
+    "size": 144,
+    "created": "2025-02-27 13:27:09"
   },
   {
-    "name": "test_files.cpython-312.opt-1.pyc",
-    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.opt-1.pyc",
-    "size": 6444,
-    "created": "2024-12-11 17:17:29"
+    "name": "testing.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/flask/testing.py",
+    "size": 10163,
+    "created": "2025-02-27 13:35:44"
   },
   {
-    "name": "test_files.cpython-312.pyc",
-    "path": "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.pyc",
-    "size": 6870,
-    "created": "2024-12-11 17:17:29"
+    "name": "testing.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/flask/__pycache__/testing.cpython-312.pyc",
+    "size": 13700,
+    "created": "2025-02-27 13:35:52"
   },
   {
-    "name": "test_files.wxs",
-    "path": "/Library/Frameworks/Python.framework/Versions/3.12/share/doc/python3.12/examples/Tools/msi/test/test_files.wxs",
-    "size": 1459,
-    "created": "2024-12-11 17:17:30"
+    "name": "test_firefox.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_firefox.json",
+    "size": 44953,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "find_latest_files-c.ri",
-    "path": "/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/share/ri/2.6.0/system/Gem/find_latest_files-c.ri",
-    "size": 853,
-    "created": "2025-02-04 19:57:51"
+    "name": "test_os.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_os.json",
+    "size": 11390,
+    "created": "2025-02-27 13:35:50"
   },
   {
-    "name": "find_latest_files-c.ri",
-    "path": "/System/Volumes/Update/mnt1/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/share/ri/2.6.0/system/Gem/find_latest_files-c.ri",
-    "size": 853,
-    "created": "2025-02-04 19:57:51"
+    "name": "test_device.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_device.json",
+    "size": 1305,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "test_files.py",
-    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/test_files.py",
-    "size": 3326,
-    "created": "2024-12-11 17:17:29"
+    "name": "test_pgts_browser.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_pgts_browser.json",
+    "size": 2055934,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "test_files.cpython-312.opt-1.pyc",
-    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.opt-1.pyc",
-    "size": 6444,
-    "created": "2024-12-11 17:17:29"
+    "name": "test_browser.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_browser.json",
+    "size": 12257,
+    "created": "2025-02-27 13:35:50"
   },
   {
-    "name": "test_files.cpython-312.pyc",
-    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/test/test_importlib/resources/__pycache__/test_files.cpython-312.pyc",
-    "size": 6870,
-    "created": "2024-12-11 17:17:29"
+    "name": "test_additional_os.json",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/useragent/test/test_additional_os.json",
+    "size": 4376,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "test_files.wxs",
-    "path": "/System/Volumes/Data/Library/Frameworks/Python.framework/Versions/3.12/share/doc/python3.12/examples/Tools/msi/test/test_files.wxs",
-    "size": 1459,
-    "created": "2024-12-11 17:17:30"
+    "name": "tests.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/jinja2/tests.py",
+    "size": 5926,
+    "created": "2025-02-27 13:35:44"
   },
   {
-    "name": "test_files.py",
-    "path": "/System/Volumes/Data/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/test_files.py",
-    "size": 3472,
-    "created": "2025-02-27 13:43:57"
+    "name": "tests.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/jinja2/__pycache__/tests.cpython-312.pyc",
+    "size": 9048,
+    "created": "2025-02-27 13:35:50"
   },
   {
-    "name": "test_files.cpython-312.pyc",
-    "path": "/System/Volumes/Data/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__/test_files.cpython-312.pyc",
-    "size": 7409,
-    "created": "2025-02-27 13:45:27"
+    "name": "test.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/werkzeug/test.py",
+    "size": 52782,
+    "created": "2025-02-27 13:35:45"
   },
   {
-    "name": "test_files.py",
-    "path": "/System/Volumes/Data/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/test/test_importlib/resources/test_files.py",
-    "size": 3641,
-    "created": "2024-12-11 17:06:31"
+    "name": "testapp.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/werkzeug/testapp.py",
+    "size": 6332,
+    "created": "2025-02-27 13:35:45"
   },
   {
-    "name": "test_files.wxs",
-    "path": "/System/Volumes/Data/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/share/doc/python3.13/examples/Tools/msi/test/test_files.wxs",
-    "size": 1420,
-    "created": "2024-12-11 17:06:31"
+    "name": "testapp.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/testapp.cpython-312.pyc",
+    "size": 8889,
+    "created": "2025-02-27 13:35:54"
   },
   {
-    "name": "test_files.py",
-    "path": "/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/test_files.py",
-    "size": 3472,
-    "created": "2025-02-27 13:43:57"
+    "name": "test.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/werkzeug/__pycache__/test.cpython-312.pyc",
+    "size": 59898,
+    "created": "2025-02-27 13:35:53"
   },
   {
-    "name": "test_files.cpython-312.pyc",
-    "path": "/Users/user/Documents/GitHub/telegrambotMatilda/pythonProject/.venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/tests/__pycache__/test_files.cpython-312.pyc",
-    "size": 7409,
-    "created": "2025-02-27 13:45:27"
+    "name": "test_tree.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_tree.py",
+    "size": 48129,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "test_files.py",
-    "path": "/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/lib/python3.13/test/test_importlib/resources/test_files.py",
-    "size": 3641,
-    "created": "2024-12-11 17:06:31"
+    "name": "test_soup.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_soup.py",
+    "size": 19877,
+    "created": "2025-02-27 13:35:49"
   },
   {
-    "name": "test_files.wxs",
-    "path": "/opt/homebrew/Cellar/python@3.13/3.13.0_1/Frameworks/Python.framework/Versions/3.13/share/doc/python3.13/examples/Tools/msi/test/test_files.wxs",
-    "size": 1420,
-    "created": "2024-12-11 17:06:31"
+    "name": "test_lxml.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_lxml.py",
+    "size": 7635,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_dammit.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_dammit.py",
+    "size": 15451,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_docs.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_docs.py",
+    "size": 1127,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_navigablestring.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_navigablestring.py",
+    "size": 5081,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_element.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_element.py",
+    "size": 2377,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_builder_registry.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_builder_registry.py",
+    "size": 5114,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_builder.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_builder.py",
+    "size": 1115,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_formatter.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_formatter.py",
+    "size": 4148,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_tag.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_tag.py",
+    "size": 9616,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_pageelement.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_pageelement.py",
+    "size": 14274,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_css.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_css.py",
+    "size": 17279,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_fuzz.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_fuzz.py",
+    "size": 6972,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_html5lib.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_html5lib.py",
+    "size": 8322,
+    "created": "2025-02-27 13:35:49"
+  },
+  {
+    "name": "test_htmlparser.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/test_htmlparser.py",
+    "size": 6256,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "test_tree.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_tree.cpython-312.pyc",
+    "size": 82690,
+    "created": "2025-02-27 13:36:03"
+  },
+  {
+    "name": "test_navigablestring.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_navigablestring.cpython-312.pyc",
+    "size": 7663,
+    "created": "2025-02-27 13:36:03"
+  },
+  {
+    "name": "test_builder.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_builder.cpython-312.pyc",
+    "size": 1594,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_pageelement.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_pageelement.cpython-312.pyc",
+    "size": 20412,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_css.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_css.cpython-312.pyc",
+    "size": 28521,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "test_html5lib.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_html5lib.cpython-312.pyc",
+    "size": 10873,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_dammit.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_dammit.cpython-312.pyc",
+    "size": 17247,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_builder_registry.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_builder_registry.cpython-312.pyc",
+    "size": 7531,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "test_tag.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_tag.cpython-312.pyc",
+    "size": 14092,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "test_element.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_element.cpython-312.pyc",
+    "size": 3637,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_htmlparser.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_htmlparser.cpython-312.pyc",
+    "size": 6721,
+    "created": "2025-02-27 13:36:03"
+  },
+  {
+    "name": "test_formatter.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_formatter.cpython-312.pyc",
+    "size": 4695,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "test_soup.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_soup.cpython-312.pyc",
+    "size": 28802,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_lxml.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_lxml.cpython-312.pyc",
+    "size": 8329,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "test_fuzz.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_fuzz.cpython-312.pyc",
+    "size": 6761,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "test_docs.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/__pycache__/test_docs.cpython-312.pyc",
+    "size": 567,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5843991618256896.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5843991618256896.testcase",
+    "size": 35,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5270998950477824.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5270998950477824.testcase",
+    "size": 12,
+    "created": "2025-02-27 13:36:03"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-6241471367348224.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-6241471367348224.testcase",
+    "size": 19,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5000587759190016.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5000587759190016.testcase",
+    "size": 15347,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-6450958476902400.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-6450958476902400.testcase",
+    "size": 3546,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5703933063462912.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5703933063462912.testcase",
+    "size": 5,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "crash-ffbdfa8a2b26f13537b68d3794b0478a4090ee4a.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/crash-ffbdfa8a2b26f13537b68d3794b0478a4090ee4a.testcase",
+    "size": 103,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-6124268085182464.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-6124268085182464.testcase",
+    "size": 10380,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-4818336571064320.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-4818336571064320.testcase",
+    "size": 23,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5492400320282624.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5492400320282624.testcase",
+    "size": 11502,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5984173902397440.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5984173902397440.testcase",
+    "size": 51495,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5375146639360000.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5375146639360000.testcase",
+    "size": 4317,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-6600557255327744.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-6600557255327744.testcase",
+    "size": 124,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-4999465949331456.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-4999465949331456.testcase",
+    "size": 30,
+    "created": "2025-02-27 13:36:05"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-4670634698080256.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-4670634698080256.testcase",
+    "size": 15,
+    "created": "2025-02-27 13:36:03"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-6306874195312640.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-6306874195312640.testcase",
+    "size": 47,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "clusterfuzz-testcase-minimized-bs4_fuzzer-5167584867909632.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/clusterfuzz-testcase-minimized-bs4_fuzzer-5167584867909632.testcase",
+    "size": 19469,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "crash-0d306a50c8ed8bcd0785b67000fcd5dea1d33f08.testcase",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/bs4/tests/fuzz/crash-0d306a50c8ed8bcd0785b67000fcd5dea1d33f08.testcase",
+    "size": 2607,
+    "created": "2025-02-27 13:36:04"
+  },
+  {
+    "name": "testing.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/click/testing.py",
+    "size": 16084,
+    "created": "2025-02-27 13:35:44"
+  },
+  {
+    "name": "testing.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/click/__pycache__/testing.cpython-312.pyc",
+    "size": 24577,
+    "created": "2025-02-27 13:35:50"
+  },
+  {
+    "name": "doctestcompare.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/doctestcompare.py",
+    "size": 17731,
+    "created": "2025-02-27 13:35:47"
+  },
+  {
+    "name": "usedoctest.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/usedoctest.py",
+    "size": 230,
+    "created": "2025-02-27 13:35:47"
+  },
+  {
+    "name": "usedoctest.py",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/html/usedoctest.py",
+    "size": 249,
+    "created": "2025-02-27 13:35:52"
+  },
+  {
+    "name": "usedoctest.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/html/__pycache__/usedoctest.cpython-312.pyc",
+    "size": 506,
+    "created": "2025-02-27 13:36:08"
+  },
+  {
+    "name": "usedoctest.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/__pycache__/usedoctest.cpython-312.pyc",
+    "size": 482,
+    "created": "2025-02-27 13:35:53"
+  },
+  {
+    "name": "doctestcompare.cpython-312.pyc",
+    "path": "/Users/user/Documents/myproject/.venv/lib/python3.12/site-packages/lxml/__pycache__/doctestcompare.cpython-312.pyc",
+    "size": 24296,
+    "created": "2025-02-27 13:35:53"
   }
 ]
